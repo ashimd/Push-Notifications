@@ -1,4 +1,4 @@
-class Notification
+class NotificationClient
     {
         static void Main(string[] args)
         {
